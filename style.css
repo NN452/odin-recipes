@@ -1,0 +1,30 @@
+.img {
+    
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1 {
+    background-color: black;
+    color: white;
+}
+ul,
+ol {
+    font-family: sans-serif;
+    background-color: black;
+    color: white; 
+}
+.link {
+    background-color: white;
+    color: black;
+}
+h1,
+h2,
+h3,
+p {
+    text-align: center;
+    font-family: sans-serif;
+}
